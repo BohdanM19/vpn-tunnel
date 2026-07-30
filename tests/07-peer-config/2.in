@@ -1,0 +1,5 @@
+PEER alice 10.0.0.0/24
+PEER bob 10.0.0.0/25
+OUT 10.0.0.5
+IN carol 10.0.0.5
+IN bob 10.0.0.5

@@ -1,0 +1,6 @@
+PEER alice 10.0.0.0/24
+PEER bob 10.0.1.0/24
+PEER catchall 0.0.0.0/0
+ROUTE 10.0.0.5
+ROUTE 10.0.1.5
+ROUTE 8.8.8.8

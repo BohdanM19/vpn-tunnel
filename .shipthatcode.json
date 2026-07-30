@@ -1,0 +1,50 @@
+{
+  "course": "build-vpn-tunnel",
+  "language": "rust",
+  "language_id": 73,
+  "entrypoint": "main.rs",
+  "version": 1,
+  "content_hash": "e8ed70f223c921f3",
+  "lessons": [
+    {
+      "slug": "what-is-vpn",
+      "tests_hash": "f95edfa80799"
+    },
+    {
+      "slug": "tun-interface",
+      "tests_hash": "3bb604f114f3"
+    },
+    {
+      "slug": "tunnel-encapsulation",
+      "tests_hash": "b7fe33df923a"
+    },
+    {
+      "slug": "noise-protocol",
+      "tests_hash": "83cce215e8c5"
+    },
+    {
+      "slug": "key-derivation",
+      "tests_hash": "ef6c9d1268a3"
+    },
+    {
+      "slug": "aead-encryption",
+      "tests_hash": "6ea20331d1dc"
+    },
+    {
+      "slug": "peer-config",
+      "tests_hash": "7efb0d5e55e2"
+    },
+    {
+      "slug": "nat-traversal",
+      "tests_hash": "884c8757ae40"
+    },
+    {
+      "slug": "performance",
+      "tests_hash": "5679b34fae85"
+    },
+    {
+      "slug": "production-vpn",
+      "tests_hash": "03f6ce4ed328"
+    }
+  ]
+}

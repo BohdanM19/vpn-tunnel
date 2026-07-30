@@ -1,0 +1,5 @@
+NOW 1000
+STALE 60
+PEER alice 950
+PEER bob 800
+PEER carol 1000
