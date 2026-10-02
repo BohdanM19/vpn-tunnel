@@ -7,6 +7,6 @@ fn main() {
     for line in stdin.lock().lines() {
         let l = line.unwrap();
         if l.is_empty() { continue; }
-        println!("TODO");
+        println!("{}", l.parse::<u32>().unwrap() + 56);
     }
 }
